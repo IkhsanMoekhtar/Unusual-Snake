@@ -1,0 +1,23 @@
+﻿  Source.cpp
+C:\Users\ikhsa\source\repos\Game Project\Game Project\Source.cpp(71,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ikhsa\source\repos\Game Project\Game Project\Source.cpp(93,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ikhsa\source\repos\Game Project\Game Project\Source.cpp(121,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ikhsa\source\repos\Game Project\Game Project\Source.cpp(140,23): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\ikhsa\source\repos\Game Project\Game Project\Source.cpp(140,18): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\ikhsa\source\repos\Game Project\Game Project\Source.cpp(182,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ikhsa\source\repos\Game Project\Game Project\Source.cpp(242,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\ikhsa\source\repos\Game Project\Game Project\Source.cpp(377,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ikhsa\source\repos\Game Project\Game Project\Source.cpp(381,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game Project.vcxproj -> C:\Users\ikhsa\source\repos\Game Project\x64\Debug\Game Project.exe
